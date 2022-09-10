@@ -1,8 +1,8 @@
-@import "reset";
-@import "helper";
-@import "variable";
-@import "mixin";
-@import "component";
-@import "base";
-@import "layout";
-@import "index";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;500;700&family=Roboto:wght@100;300;400;500&display=swap");
+
+@import "base/reset";
+@import "base/base";
+@import "helper/variable";
+@import "helper/mixin";
+@import "helper/helper";
+@import "page/index";
